@@ -11,7 +11,7 @@ elif poziom==2:
 else:
     max_zakres = 200
 
-wylosowana = random.randint(1, max_zakres+1)
+wylosowana = random.randint(1, max_zakres)
 liczba_prob = 0
 
 while True:
